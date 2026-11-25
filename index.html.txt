@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Application</title>
+</head>
+<body>
+
+    <h1>Welcome to My Application</h1>
+
+    <h2>Hello DevOps Engineer!</h2>
+
+    <p>This is my first HTML application.</p>
+
+    <button onclick="alert('Application is Working!')">
+        Click Me
+    </button>
+
+</body>
+</html>
